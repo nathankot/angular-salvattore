@@ -1,6 +1,7 @@
 {
   "name": "angular-salvattore",
   "version": "1.0.0",
+  "main": "./src/angular-salvattore.js",
   "authors": [
     "Nathan Kot <me@nathankot.com>"
   ],
